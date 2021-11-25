@@ -42,6 +42,9 @@
  <img src="https://img.shields.io/badge/ros-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ros" />
  <img src="https://img.shields.io/badge/oracle%20cloud-000000?style=for-the-badge&logo=oracle&logoColor=F80000" alt="oraclecloud" />
  <img src="https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="photoshop" />
+ <img src="https://img.shields.io/badge/docker-384d54?style=for-the-badge&logo=docker&logoColor=0db7ed" alt="docker" />
+ <img src="https://img.shields.io/badge/cypress-061d42?style=for-the-badge&logo=cypress&logoColor=white" alt="cypress" />
+ <img src="https://img.shields.io/badge/composer-white?style=for-the-badge&logo=composer&logoColor=87371c" alt="composer" />
 </div>
 
 
