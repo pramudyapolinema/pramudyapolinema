@@ -45,6 +45,7 @@
  <img src="https://img.shields.io/badge/docker-384d54?style=for-the-badge&logo=docker&logoColor=0db7ed" alt="docker" />
  <img src="https://img.shields.io/badge/cypress-061d42?style=for-the-badge&logo=cypress&logoColor=white" alt="cypress" />
  <img src="https://img.shields.io/badge/composer-white?style=for-the-badge&logo=composer&logoColor=87371c" alt="composer" />
+ <img src="https://img.shields.io/badge/React.JS-yellow?style=for-the-badge&logo=react&logoColor=blue" alt="react" />
 </div>
 
 
